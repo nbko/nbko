@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - Passionate about learning
 - Working as a Software Engineering Intern @ FPT Software
 
-## :🌱: I'm Currently Learning
+## 🌱 I'm Currently Learning
 - A little bit of RAG and Finetuning
 - Typescript, React, and SQL
 
-## :📫 How To Reach Me
+## 📫 How To Reach Me
 email: bonnieko880@gmail.com
