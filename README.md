@@ -1,26 +1,11 @@
-## 👋 Hi, I'm Bonnie Ko
+## Hi, I'm Bonnie Ko
 
 <!--
-**nbko/nbko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+, MongoDB, and SQL. I’m currently learning a bit of RAG and Finetuning, and I’m always eager to take on new challenges and projects.
 -->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Studying Computer Science and Computational and Applied Mathematics at University of Chicago, graduating Spring 2026
-- Passionate about learning
-- Working as a Software Engineering Intern @ FPT Software
+I'm studying Computer Science and Computational and Applied Mathematics at UChicago, with a strong passion for learning and problem-solving. In the summer of 2024, I had the opportunity to intern at FPT Software as a full-stack software engineer.
 
-## 🌱 I'm Currently Learning
-- A little bit of RAG and Finetuning
-- Typescript, React, and SQL
+I have experience in full-stack development, including TypeScript, React, Next.js, Python, and MongoDB. I’m always eager to take on new challenges and projects.
 
-## 📫 How To Reach Me
-email: bonnieko880@gmail.com
+#### Contact Me
+email: bonnienaeunko@gmail.com
